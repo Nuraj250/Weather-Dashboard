@@ -1,4 +1,4 @@
-# Weather Dashboard      
+# Weather Dashboard       
 
 A web application built with React and Node.js that provides real-time weather information for cities around the world. Users can search for a city to view the current weather conditions, including temperature, humidity, and descriptions.
 
